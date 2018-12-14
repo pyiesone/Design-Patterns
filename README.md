@@ -3,7 +3,7 @@ GOF Design Patterns in Java
 
 23 patterns in total.
 
-## Behavioural
+###### Behavioural
   - Chain of Responsibility
   - Command
   - Iterator
@@ -15,13 +15,13 @@ GOF Design Patterns in Java
   - Strategy
   - Template Method
   - Visitor
-## Creational 
+###### Creational 
   - Abstract Factory
   - Builder
   - Factory Method
   - Prototype
   - Singleton
-## Structural 
+###### Structural 
   - Adapter
   - Bridge
   - Composite
